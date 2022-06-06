@@ -55,5 +55,5 @@ __*Git*__ - это одна из реализаций распределённы
 
 Для того чтобы дабавить ветку в текущую ветку используется команда *git merge <name branch>*
 
-## Удаление веток
-Для удаления ветки ввести команду "git branch -d 'name branch'"
+## Deleting branches
+To delete a branch, enter the command "git branch -d 'name branch'"
