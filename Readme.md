@@ -49,7 +49,6 @@ __*Git*__ - это одна из реализаций распределённы
 
 ## GIT Решение конфликтов
 
-Возвращаем удаленный блок
 
 ### Перемещение по веткам 
 
@@ -59,5 +58,20 @@ __*Git*__ - это одна из реализаций распределённы
 
 Для того чтобы дабавить ветку в текущую ветку используется команда *git merge <name branch>*
 
-## Deleting branches
-To delete a branch, enter the command "git branch -d 'name branch'"
+## Удаление веток
+Чтобы удалить ветку, введите команду "git branch -d 'name branch'".
+
+###### ***Тоже самое, только на анлийском***
+
+### Moving through branches
+
+In order to switch to another branch, the _git checkout <*****> command is used_
+
+## Merging branches
+
+To add a branch to the current branch, use the *merge git <branch name> command*
+
+
+## Removing branches
+To delete a branch, enter the command "gitd branch 'branch name'".
+
