@@ -49,4 +49,15 @@ __*Git*__ - это одна из реализаций распределённы
 
 ## GIT Решение конфликтов
 
+Returned the lost block
+### Moving through branches
 
+In order to switch to another branch, the _git checkout <*****> command is used_
+
+## Merging branches
+
+To add a branch to the current branch, use the *merge git <branch name> command*
+
+
+## Удаление ветвей
+Чтобы удалить ветку, введите команду "git branch -d 'name branch'".
