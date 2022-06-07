@@ -75,3 +75,4 @@ To add a branch to the current branch, use the *merge git <branch name> command*
 ## Removing branches
 To delete a branch, enter the command "gitd branch 'branch name'".
 
+# Работа с удаленным репозиторием.
